@@ -23,6 +23,9 @@
 # Notes
 You can download firmware files from
 - https://cocaine.trade (it's a name)
+
+# Warning!
+- *Don't use it on your phone, you can brick it!*
 ----
 ### *Thank's for using my programm!*
 
