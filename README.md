@@ -12,6 +12,7 @@
 2. Turn off your headset
 3. Enter the "fastboot" mode on your headset by pressing the power and volume down buttons.
 4. In opened menu, click "sideload update".
+![HowItLooksLike](https://i.postimg.cc/FH0cJ8kf/IMG-20250408-215757.jpg)
 5. Wait until the side LED starts to glow a light purple light.
 6. When the side LED lights up purple, connect the headset to the PC and press "Check Sideload Connection" in the program so that it detects your headset.
 7. If everything is ready, click the "Start Update" button.
