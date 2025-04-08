@@ -14,6 +14,7 @@
 4. In opened menu, click "sideload update".
 ![HowItLooksLike](https://i.postimg.cc/FH0cJ8kf/IMG-20250408-215757.jpg)
 5. Wait until the side LED starts to glow a light purple light.
+![how light looks like](https://i.postimg.cc/MHr4VX4Y/9-20250408222124.png)
 6. When the side LED lights up purple, connect the headset to the PC and press "Check Sideload Connection" in the program so that it detects your headset.
 7. If everything is ready, click the "Start Update" button.
 8. First, the file will be sent to the headset, which takes about 5 minutes. You can track his progress in the Windows Console.
