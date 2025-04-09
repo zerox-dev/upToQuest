@@ -23,6 +23,7 @@
 8. First, the file will be sent to the headset, which takes about 5 minutes. You can track his progress in the Windows Console.
 - ![Working Programm](https://i.postimg.cc/T2JHgNnD/image.png)
 9. After downloading, the download will appear on your Quest screen, do not touch the quest while it is running.
+- ![LoadingOnQuest](https://i.postimg.cc/LX0xy53g/photo-2025-04-09-19-13-43.jpg)
 10. After the download is complete, the Quest will reboot into the new firmware version! Enjoy!
 ### *Done!*
 
