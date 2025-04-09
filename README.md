@@ -11,6 +11,7 @@
 1. Upload your update (.zip) to upToQuest
 2. Turn off your headset
 3. Enter the "fastboot" mode on your headset by pressing the power and volume down buttons.
+- ![whereisbuttonsonquest](https://i.postimg.cc/NMZx6TpL/image.png)
 4. In opened menu, click "sideload update".
 - ![HowItLooksLike](https://i.postimg.cc/FH0cJ8kf/IMG-20250408-215757.jpg)
 5. Wait until the side LED starts to glow a light purple light.
